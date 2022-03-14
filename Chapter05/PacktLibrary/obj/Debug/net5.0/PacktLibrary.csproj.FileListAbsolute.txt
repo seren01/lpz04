@@ -1,0 +1,24 @@
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+D:\Microsoft VS Code\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\User105\Desktop\Code\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb
